@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nextjs.org/" target="blank"><img src="/project.png" width="300" alt="Proyecto" /></a>
+  <a href="https://nextjs.org/" target="blank"><img src="/project.png" width="700" alt="Proyecto" /></a>
 </p>
 
 # React con Next JS y Laravel 11
