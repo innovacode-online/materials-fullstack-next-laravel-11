@@ -10,6 +10,10 @@ Aca encontraras todos los materiales del curso como programas, extensones y adic
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+* [Laragon](https://laragon.org/download)
+
+* [Composer](https://getcomposer.org/download/)
+
 * [Git](https://git-scm.com/)
 
 * [Node](https://nodejs.org/es/)
